@@ -10,3 +10,7 @@ Please make pull requests (PRs) adding new lines to the `germany.tsv` file, or c
 Please make sure you separate columns with tabs, not spaces.
 
 If you have a question or are unsure about your trash-type please fill an [issue](https://github.com/bgruening/where_does_my_trash_need_to_go/issues) we will make sure our trash-experts will help.
+
+## Apps
+
+For the south of the Freiburg/Germany area there is a trash app called _ALB Abfall App_ (thanks to @dpryan79)
