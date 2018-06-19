@@ -1,8 +1,13 @@
 # Where does my trash need to go
 
 This file should help people sorting their trash according to local rules. The ultimate sorting guide :)
-I'm aware that trash-sorting is a NP-hard problem in Germany and can be different from city to city, even from street to street
-in one city but maybe it is helpful for someone.
+I'm aware that trash-sorting is a NP-hard problem in Germany and can be different from city to city,
+even from street to street in one city but maybe it is helpful for someone.
+
+A list of other useful resources are given below:
+
+  * [Abfall-ABC](http://www.abfallwirtschaft-freiburg.de/de/private_haushalte/abfall-abc.php)
+  * [Gelber Sack](http://www.abfallwirtschaft-freiburg.de/de/private_haushalte/Wertstoffsammlung/gelber_sack.php)
 
 ## Contributing
 
